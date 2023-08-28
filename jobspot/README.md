@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+# Output ![sddefault (2)](https://github.com/DanishAhwan/Splash-Login-Signup-ForgotPass-Screen-UI/assets/140817259/79334a6d-9ff6-4c13-9c7d-845c6a3a4c7b)
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
